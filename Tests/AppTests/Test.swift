@@ -7,7 +7,6 @@
 
 import Foundation
 @testable import App
-import Fluent
 import XCTVapor
 
 
